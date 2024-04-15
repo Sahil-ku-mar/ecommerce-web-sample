@@ -1,0 +1,19 @@
+.Menu-container {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 75px;
+  margin-right: 75px;
+  padding-top: 20px;
+  height: 52px;
+}
+.Menu-container .active {
+  color: orangered;
+  padding: 15px 0px 0px 0px;
+}
+.Menu-bottom > div img {
+  display: flex;
+  align-items: left;
+  gap: 10px;
+  width: 500px;
+  height: 500px;
+}
