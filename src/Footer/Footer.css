@@ -1,0 +1,122 @@
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 132px 248px 60px 315px;
+  background: #d1e2eb;
+}
+
+.footer-container .company {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  font-size: 10px;
+}
+
+.footer-container .company > ul {
+  display: contents;
+  list-style: none;
+}
+
+.footer-container .company > ul li > a {
+  text-decoration: none;
+  color: #696969;
+}
+
+.footer-container .career {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  font-size: 10px;
+}
+
+.footer-container .career > ul {
+  display: contents;
+  list-style: none;
+}
+
+.footer-container .career > ul li > a {
+  text-decoration: none;
+  color: #696969;
+}
+
+.footer-container .buy {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  font-size: 10px;
+  padding: 35px 0px 0px 0px;
+}
+
+.footer-container .buy > ul {
+  display: contents;
+  list-style: none;
+}
+.footer-container .buy > ul li > a {
+  text-decoration: none;
+  color: #696969;
+}
+
+.footer-container .help {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 25px;
+  font-size: 10px;
+}
+
+.footer-container .help > ul {
+  display: contents;
+  list-style: none;
+}
+
+.footer-container .help > ul li > a {
+  text-decoration: none;
+  color: #696969;
+}
+
+.footer-bottom-main {
+    padding: 0px 73px;
+}
+
+.footer-bottom {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 3px solid #D9D9D9;
+  line-height: 45px;
+}
+
+.footer-bottom .payment {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+  mix-blend-mode: luminosity;
+  filter: grayscale(1);
+}
+
+.footer-bottom .language > select {
+  border: none;
+}
+
+.footer-bottom-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-bottom-container .city {
+  font-size: 6px;
+}
+
+.footer-bottom-container .copyright {
+  font-size: 14px;
+  color: #9d9d9d;
+}
+
+.footer-bottom-container .social > ul {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 20px;
+  list-style: none;
+}
