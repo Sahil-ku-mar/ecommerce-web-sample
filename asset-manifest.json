@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ecommerce-web-sample/static/css/main.3176fade.css",
+    "main.js": "/ecommerce-web-sample/static/js/main.5b11bd65.js",
+    "static/js/453.f560cb13.chunk.js": "/ecommerce-web-sample/static/js/453.f560cb13.chunk.js",
+    "static/media/tittle-icon.svg": "/ecommerce-web-sample/static/media/tittle-icon.8a40090546e8f61e5786640b25d09343.svg",
+    "static/media/left.png": "/ecommerce-web-sample/static/media/left.aee8fa2fb4fb2f9ec46f.png",
+    "static/media/right.png": "/ecommerce-web-sample/static/media/right.970ca8ee1bc2f6cb2313.png",
+    "static/media/cart-icon.svg": "/ecommerce-web-sample/static/media/cart-icon.d435dd8279121ad304e2e22637671be7.svg",
+    "index.html": "/ecommerce-web-sample/index.html",
+    "static/media/instagram-icon.svg": "/ecommerce-web-sample/static/media/instagram-icon.c385bf501f9008b0f04ae8836f84c94c.svg",
+    "static/media/card-icon.svg": "/ecommerce-web-sample/static/media/card-icon.ef1f88a97205ebf2685dd98bf89f1950.svg",
+    "static/media/telegram-icon.svg": "/ecommerce-web-sample/static/media/telegram-icon.fcdb9399d0bb9377634896c3ddd0b148.svg",
+    "static/media/heart-icon.svg": "/ecommerce-web-sample/static/media/heart-icon.e460289dc85f03166a0ada1a03502717.svg",
+    "static/media/search-icon.svg": "/ecommerce-web-sample/static/media/search-icon.713a05888c7b77eec8387f5360d9e7b4.svg",
+    "static/media/logo-icon.svg": "/ecommerce-web-sample/static/media/logo-icon.4143f8bf4d8587fc254a00a5840080c5.svg",
+    "static/media/profile-icon.svg": "/ecommerce-web-sample/static/media/profile-icon.2ae03bbed3cb3cc92ff4b6d29ae7897d.svg",
+    "static/media/facebook-icon.svg": "/ecommerce-web-sample/static/media/facebook-icon.3301b46b55dc52ee54394752d9baf1a6.svg",
+    "main.3176fade.css.map": "/ecommerce-web-sample/static/css/main.3176fade.css.map",
+    "main.5b11bd65.js.map": "/ecommerce-web-sample/static/js/main.5b11bd65.js.map",
+    "453.f560cb13.chunk.js.map": "/ecommerce-web-sample/static/js/453.f560cb13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3176fade.css",
+    "static/js/main.5b11bd65.js"
+  ]
+}
